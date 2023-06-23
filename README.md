@@ -22,5 +22,12 @@ Pair Extraordinaire	 | <img src="https://raw.githubusercontent.com/Schweinepries
 Galaxy Brain | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="1000px" height="175px"> | `✅ Yes` | A user can get this badge by getting 2 of their answers accepted on the [Community Discussions](https://github.com/orgs/community/discussions/) forum. | Medium
 Starstruck | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="1000px" height="175px"> | `✅ Yes` | This badge is given to someone when one of their respository's gets 16 stars. | Hard
 Public Sponsor | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/public-sponsor-default.png" width="1000px" height="175px"> | `✅ Yes` | This badge can be earned by sponsoring a respository/organization/user. | Very Easy
+
+# ⛔ Un-Obtainable Achievements
+| Name | Badge Image | Earnable? | Earned By | Difficulty |
+| --- | --- | --- | --- | --- |
+Pull Shark | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="1000px" height="175px"> | `✅ Yes` | You can get this badge by merging 2 pull requests. | Medium
+YOLO | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="1000px" height="175px"> | `✅ Yes` | A user can obtain this badge by merging a pull request without a review (This requires 1 user and 1 reviewer) | Medium
+
 # 📋 Credits
 - Massive credit goes to @Schweinepriester for the high quality image for each badge and the inspiration to make this repository
