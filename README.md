@@ -26,8 +26,8 @@ Public Sponsor | <img src="https://raw.githubusercontent.com/Schweinepriester/gi
 # ⛔ Un-Obtainable Achievements
 | Name | Badge Image | Earnable? | Earned By | Difficulty |
 | --- | --- | --- | --- | --- |
-Pull Shark | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="1000px" height="175px"> | `✅ Yes` | You can get this badge by merging 2 pull requests. | Medium
-YOLO | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="1000px" height="175px"> | `✅ Yes` | A user can obtain this badge by merging a pull request without a review (This requires 1 user and 1 reviewer) | Medium
+Artic Code Vault Contributor | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/arctic-code-vault-contributor-default.png" width="1000px" height="175px"> | `❌ No` | You can get this badge by merging 2 pull requests. | Very Easy
+Mars 2020 Contributor | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/mars-2020-contributor-default.png" width="1000px" height="175px"> | `❌ No` | A user can obtain this badge by merging a pull request without a review (This requires 1 user and 1 reviewer) | Easy
 
 # 📋 Credits
 - Massive credit goes to @Schweinepriester for the high quality image for each badge and the inspiration to make this repository
