@@ -20,8 +20,8 @@ YOLO | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profi
 Quckdraw | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="175px"> | `✅ Yes` | Obtainable by closing a Pull Request or Issue in 5 mins of it being opened. (You can close your own issues) | Very Easy
 Pair Extraordinaire	 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="175px"> | `✅ Yes` | The user can obtain this badge by [Coauthoring](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) in a merged pull request. (Requires GitHub Desktop App) | Hard
 Galaxy Brain | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="175px"> | `✅ Yes` | A user can get this badge by getting 2 of their answers accepted on the [Community Discussions](https://github.com/orgs/community/discussions/) forum. | Medium
-Starstruck | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="80px"> | `✅ Yes` | This badge is given to someone when one of their respository's gets 16 stars. | Hard
-Public Sponsor | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/public-sponsor-default.png" width="80px"> | `✅ Yes` | This badge can be earned by sponsoring a respository/organization/user. | Very Easy
+Starstruck | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="175px"> | `✅ Yes` | This badge is given to someone when one of their respository's gets 16 stars. | Hard
+Public Sponsor | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/public-sponsor-default.png" width="175px"> | `✅ Yes` | This badge can be earned by sponsoring a respository/organization/user. | Very Easy
 
 # ⛔ Un-Obtainable Achievements
 | Name | Badge Image | Earnable? | Earned By | Difficulty |
@@ -33,19 +33,12 @@ Mars 2020 Contributor | <img src="https://raw.githubusercontent.com/Schweineprie
 
 Some Achievements not only have the base version, but also tiers.
 
-| Title | Tier | Badge | Earned by |
-| --- | --- | --- | --- |
-Pair Extraordinaire  | Bronze 🥉 | <img alt="Pair Extraordinaire Bronze Badge" src="/images/tiers/pair-extraordinaire-bronze.png" style="width: 180px;"> | Coauthored in 10 merged pull requests
-Starstruck x2 | Bronze 🥉 | <img alt="Starstruck Bronze Badge" src="/images/tiers/starstruck-bronze.png" style="width: 180px;"> | Created a repository that has 128 stars
-Starstruck x3 | Silver 🥈 | <img alt="Starstruck Silver Badge" src="/images/tiers/starstruck-silver.png" style="width: 180px;"> | Created a repository that has 512 stars
-Starstruck x4 | Gold 🥇 | <img alt="Starstruck Gold Badge" src="/images/tiers/starstruck-gold.png" style="width: 180px;"> | Created a repository that has 4096 stars
-||| <!-- this empty row is intentional to separate -->
-Galaxy Brain x2 | Bronze 🥉 | <img alt="Galaxy Brain Bronze Badge" src="/images/tiers/galaxy-brain-bronze.png" style="width: 180px;"> | 8 accepted answers
-Galaxy Brain x3 | Silver 🥈 | <img alt="Galaxy Brain Silver Badge" src="/images/tiers/galaxy-brain-silver.png" style="width: 180px;"> | 16 accepted answers
-Galaxy Brain x4 | Gold 🥇 | <img alt="Galaxy Brain Gold Badge" src="/images/tiers/galaxy-brain-gold.png" style="width: 180px;"> | 32 accepted answers
-Pull Shark x2 | Bronze 🥉 | <img alt="Pull Shark Bronze Badge" src="/images/tiers/pull-shark-bronze.png" style="width: 180px;"> | 16 pull requests merged
-Pull Shark x3 | Silver 🥈 | <img alt="Pull Shark Silver Badge" src="/images/tiers/pull-shark-silver.png" style="width: 180px;"> | 128 pull requests merged
-Pull Shark x4 | Gold 🥇 | <img alt="Pull Shark Gold Badge" src="/images/tiers/pull-shark-gold.png" style="width: 180px;"> | 1024 pull requests merged
+| Default Badge | Tiers | 
+| :-: | :-: |
+| ![Starstruck](/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png) | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" width="60px"></td>   <td><img src="/Media/Badges/Star-Struck/PNG/StarStruck_Bronze.png" width="60px" align="center"></td>  <td><img src="/Media/Badges/Star-Struck/PNG/StarStruck_Silver.png" width="60px"></td>  <td><img src="/Media/Badges/Star-Struck/PNG/StarStruck_Gold.png" width="60px"></td>  </tr>  <tr>  <td align="center">16</td>  <td align="center">128</td>  <td align="center">512</td>  <td align="center">4096</td>  </tr>   </tbody>  </table>      |
+| ![Pair Extraordinaire](/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire.png) | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire.png" width="60px"></td>   <td><img src="/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire_Bronze.png" width="60px" align="center"></td>  <td><img src="/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire_Silver.png" width="60px"></td>  <td><img src="/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire_Gold.png" width="60px"></td>  </tr>  <tr>  <td align="center">1</td>  <td align="center">10</td>  <td align="center">24</td>  <td align="center">48</td>  </tr>   </tbody>  </table>      |
+| ![Pull Shark](/Media/Badges/Pull-Shark/PNG/PullShark.png) | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Media/Badges/Pull-Shark/PNG/PullShark.png" width="60px"></td>   <td><img src="/Media/Badges/Pull-Shark/PNG/PullShark_Bronze.png" width="60px" align="center"></td>  <td><img src="/Media/Badges/Pull-Shark/PNG/PullShark_Silver.png" width="60px"></td>  <td><img src="/Media/Badges/Pull-Shark/PNG/PullShark_Gold.png" width="60px"></td>  </tr>  <tr>  <td align="center">2</td>  <td align="center">16</td>  <td align="center">128</td>  <td align="center">1024</td>  </tr>   </tbody>  </table>      |
+| ![Galaxy Brain](/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain.png) | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td><img src="/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain.png" width="60px"></td>  <td><img src="/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain_Bronze.png" width="60px" align="center"></td>  <td><img src="/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain_Silver.png" width="60px"></td>  <td><img src="/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain_Gold.png" width="60px"></td>  </tr>  <tr>  <td align="center">2</td> <td align="center">8</td>  <td align="center">16</td>  <td align="center">32</td>  </tr>   </tbody>  </table>
 
 # 🎨 Tier Colors & Labels
 
