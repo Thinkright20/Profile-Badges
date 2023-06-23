@@ -9,8 +9,8 @@ GitHub Badges were added  after the launch of the first Mars Helicopter, [Ingenu
 # 🧪 Achievements Being Tested
 | Name | Badge Image | Earnable? | Earned By | Difficulty |
 | --- | --- | --- | --- | --- |
-Heart On Your Sleeve | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/heart-on-your-sleeve-default.png" width="400px" height="175px"> | `🔜 (In testing)` | User cans obtain this badge by reacting to something on GitHub with a ❤️ emoji | Very Easy
-Open Sourcerer | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/open-sourcerer-default.png" width="400px" height="175px"> | `🔜 (In testing)` | Can be obtained if a user had Pull Requests merged in more than 1 public repository | Medium
+Heart On Your Sleeve | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/heart-on-your-sleeve-default.png" width="100px" height="100px"> | `🔜 (In testing)` | User cans obtain this badge by reacting to something on GitHub with a ❤️ emoji | Very Easy
+Open Sourcerer | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/open-sourcerer-default.png" width="100px" height="100px"> | `🔜 (In testing)` | Can be obtained if a user had Pull Requests merged in more than 1 public repository | Medium
 
 # 🥇 Obtainable Achievements
 | Name | Badge Image | Earnable? | Earned By | Difficulty |
