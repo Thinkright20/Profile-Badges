@@ -15,8 +15,9 @@ Open Sourcerer | <img src="https://raw.githubusercontent.com/Schweinepriester/gi
 # 🥇 Obtainable Achievements
 | Name | Badge Image | Earnable? | Earned By | Difficulty |
 | --- | --- | --- | --- | --- |
+Pull Shark | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="80px" height="70px"> | `✅ Yes` | This badge can be obtained by merging 2 pull requests. | Medium
 Quckdraw | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="80px" height="70px"> | `✅ Yes` | This can be obtained by closing a Pull Request or an Issue in 5 minutes of it being opened. (You can close your own issues) | Very Easy
 Pair Extraordinaire	 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="80px" height="70px"> | `✅ Yes` | The user can obtain this badge by [Coauthoring](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) in a merged pull request. (Requires GitHub Desktop App) | Hard
-Galaxy Brain	 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="80px" height="70px"> | `✅ Yes` | A user can get this badge by having 2 of their answers accepted in a discussion on the [Community Discussions](https://github.com/orgs/community/discussions/) forum. | Medium
+Galaxy Brain | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="80px" height="70px"> | `✅ Yes` | A user can get this badge by having 2 of their answers accepted in a discussion on the [Community Discussions](https://github.com/orgs/community/discussions/) forum. | Medium
 # 📋 Credits
 - Massive credit goes to @Schweinepriester for the high quality image for each badge and the inspiration to make this repository
