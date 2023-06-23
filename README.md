@@ -47,6 +47,16 @@ Pull Shark x2 | Bronze 🥉 | <img alt="Pull Shark Bronze Badge" src="/images/ti
 Pull Shark x3 | Silver 🥈 | <img alt="Pull Shark Silver Badge" src="/images/tiers/pull-shark-silver.png" style="width: 180px;"> | 128 pull requests merged
 Pull Shark x4 | Gold 🥇 | <img alt="Pull Shark Gold Badge" src="/images/tiers/pull-shark-gold.png" style="width: 180px;"> | 1024 pull requests merged
 
+# 🎨 Tier Colors & Labels
+
+Every tier has either a x2, x3, or x4 label with it that also includes a color.
+
+| Tier | Label | Sample | Hex | Visual |
+| --- | --- | --- | --- | --- |
+🥉 Bronze | `x2` | ![x2](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/2cc68fe868f104a77b53a353a2931d6e648e06b2/images/custom/tier-label/tier-label-bronze.svg) | `#F9BFA7` | ![#F9BFA7](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23F9BFA7-yellow?style=flat-square&color=F9BFA7)
+🥈 Silver | `x3` | ![x3](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/2cc68fe868f104a77b53a353a2931d6e648e06b2/images/custom/tier-label/tier-label-silver.svg) | `#E1E4E4` | ![#E1E4E4](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23E1E4E4-yellow?style=flat-square&color=E1E4E4)
+🥇 Gold | `x4` | ![x4](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/2cc68fe868f104a77b53a353a2931d6e648e06b2/images/custom/tier-label/tier-label-gold.svg) | `#FAE57E` | ![#FAE57E](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23FAE57E-yellow?style=flat-square&color=FAE57E)
+
 # 👋 Achievement Skin Tone
 
 Some of the achievements' on GitHub appear with a different skin color depending on your Emoji Skin Tone Preference.
@@ -73,5 +83,5 @@ Only 2 achievements have had their name altered in all of GitHub History. These 
 ```
 
 # 📋 Credits
-- Massive credit goes to @Schweinepriester for the high quality image for each badge and the inspiration to make this repository
-- Credit to @drknzz for the skin tone images & inspiration
+- Massive credit goes to @Schweinepriester for the high quality images for each badge, labels, information for each badge, and the inspiration to make this repository
+- Credit to @drknzz for the skin tone images, information about it too & inspiration
