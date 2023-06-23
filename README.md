@@ -26,8 +26,8 @@ Public Sponsor | <img src="https://raw.githubusercontent.com/Schweinepriester/gi
 # ⛔ Un-Obtainable Achievements
 | Name | Badge Image | Earnable? | Earned By | Difficulty |
 | --- | --- | --- | --- | --- |
-Artic Code Vault Contributor | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/arctic-code-vault-contributor-default.png"> | `❌ No` | You can get this badge by merging 2 pull requests. | Very Easy
-Mars 2020 Contributor | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/mars-2020-contributor-default.png"> | `❌ No` | A user can obtain this badge by merging a pull request without a review (This requires 1 user and 1 reviewer) | Easy
+Artic Code Vault Contributor | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/arctic-code-vault-contributor-default.png"> | `❌ No` | Previously obtainable by contributing code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/) | Very Easy
+Mars 2020 Contributor | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/mars-2020-contributor-default.png"> | `❌ No` | Was obtainable if a user contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter) | Easy
 
 # 📋 Credits
 - Massive credit goes to @Schweinepriester for the high quality image for each badge and the inspiration to make this repository
