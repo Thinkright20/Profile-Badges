@@ -34,7 +34,7 @@ Mars 2020 Contributor | <img src="https://raw.githubusercontent.com/Schweineprie
 
 # 🎚️ Tiers
 
-Some Achievements not only have the base version, but also tiers.
+Some Achievements not only have the base version, but also tiers. The following are the only badges that have tiers right now:
 
 | Default Badge | Tiers | 
 | :-: | :-: |
