@@ -27,7 +27,7 @@ Public Sponsor | <img src="https://raw.githubusercontent.com/Schweinepriester/gi
 | Name | Badge Image | Earnable? | Earned By | Difficulty |
 | --- | --- | --- | --- | --- |
 Artic Code Vault Contributor | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/arctic-code-vault-contributor-default.png" width="175px"> | `❌ No` | Previously obtainable by contributing code to repositories in the [2020 Archive Program](https://archiveprogram.github.com/) | Very Easy
-Mars 2020 Contributor | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/mars-2020-contributor-default.png" width="175px"> | `❌ No` | Given if a user contributed code to repositories in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter) | Easy
+Mars 2020 Contributor | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/mars-2020-contributor-default.png" width="175px"> | `❌ No` | Given if a user contributed code to repositories in the [Mars 2020 Mission](https://github.com/readme/nasa-ingenuity-helicopter) | Easy
 
 # 🎚️ Tiers
 
