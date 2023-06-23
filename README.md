@@ -29,5 +29,21 @@ Public Sponsor | <img src="https://raw.githubusercontent.com/Schweinepriester/gi
 Artic Code Vault Contributor | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/arctic-code-vault-contributor-default.png"> | `❌ No` | Previously obtainable by contributing code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/) | Very Easy
 Mars 2020 Contributor | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/mars-2020-contributor-default.png"> | `❌ No` | Was obtainable if a user contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter) | Easy
 
+# 👋 Achievement Skin Tone
+
+Some of the achievements' on GitHub appear with a different skin color depending on your Emoji Skin Tone Preference.
+
+You can change your preferred Skin Tone by visiting the [appearance settings](https://github.com/settings/appearance).
+
+<br>
+
+| Badge | Name | Skin Tone Versions | 
+| :-: | :-: | :-: |
+| ![Starstruck](https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png)                 | Starstruck         | <table>  <tbody>  <tr>  <td align="center"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" width="60px"></td>   <td align="center"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone2.png" width="60px"></td>  <td align="center"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone3.png" width="60px"></td>  <td align="center"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone4.png" width="60px"></td>  <td align="center"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone5.png" width="60px"></td>   <td align="center"><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone6.png" width="60px"></td>   </tr>   <tr>  <td align="center">👋</td> <td align="center">👋🏻</td>  <td align="center">👋🏼</td>  <td align="center">👋🏽</td>  <td align="center">👋🏾</td>  <td align="center">👋🏿</td>  </tr>  </tbody>  </table>      |
+| ![Quickdraw](/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png)                 | Quickdraw         | <table><tbody>  <tr>  <td align="center"><img src="/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="60px"></td>   <td align="center"><img src="Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone2.png" width="60px"></td>  <td align="center"><img src="Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone3.png" width="60px"></td>  <td align="center"><img src="Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone4.png" width="60px"></td>  <td align="center"><img src="Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone5.png" width="60px"></td>   <td align="center"><img src="Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone6.png" width="60px"></td>   </tr>   <tr>  <td align="center">👋</td> <td align="center">👋🏻</td>  <td align="center">👋🏼</td>  <td align="center">👋🏽</td>  <td align="center">👋🏾</td>  <td align="center">👋🏿</td>  </tr>  </tbody>  </table>      |
+
+
+
 # 📋 Credits
 - Massive credit goes to @Schweinepriester for the high quality image for each badge and the inspiration to make this repository
+- Credit to @drknzz for the skin tone images & inspiration
