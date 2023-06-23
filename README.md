@@ -15,7 +15,7 @@ Open Sourcerer | <img src="https://raw.githubusercontent.com/Schweinepriester/gi
 # 🥇 Obtainable Achievements
 | Name | Badge Image | Earnable? | Earned By | Difficulty |
 | --- | --- | --- | --- | --- |
-Pull Shark | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="100px" height="70px"> | `✅ Yes` | You can get this badge by merging 2 pull requests. | Medium
+Pull Shark | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="800px" height="70px"> | `✅ Yes` | You can get this badge by merging 2 pull requests. | Medium
 YOLO | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="80px" height="70px"> | `✅ Yes` | A user can obtain this badge by merging a pull request without a review (This requires 1 user and 1 reviewer) | Medium
 Quckdraw | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="80px" height="70px"> | `✅ Yes` | Obtainable by closing a Pull Request or Issue in 5 mins of it being opened. (You can close your own issues) | Very Easy
 Pair Extraordinaire	 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="80px" height="70px"> | `✅ Yes` | The user can obtain this badge by [Coauthoring](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) in a merged pull request. (Requires GitHub Desktop App) | Hard
