@@ -14,7 +14,7 @@ Heart On Your Sleeve | <img src="https://raw.githubusercontent.com/Schweinepries
 Open Sourcerer | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/open-sourcerer-default.png" width="120px"> | `🔜 (In testing)` | Can be obtained if a user had Pull Requests merged in more than 1 public repository | Medium
 
 # 🥇 Obtainable Achievements
-The achievements below are ones that you can get:
+The achievements listed below are ones that you can obtain:
 | Name | Badge Image | Earnable? | Earned By | Difficulty |
 | --- | --- | --- | --- | --- |
 Pull Shark | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="175px"> | `✅ Yes` | You can get this badge by merging 2 pull requests. | Medium
