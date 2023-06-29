@@ -1,6 +1,6 @@
 # 🛡️ Profile Badges
 
-This respository includes a collection of every single badge on GitHub, and how to obtain each one of them. Most of them are very easy to obtain, however, some are more difficult. This respository orders the badges from `Very Easy` to `Easy` to `Medium` and finally `Hard`.
+This respository includes a collection of every single badge on GitHub, and how to obtain each one of them. Some of them are obtainable, not obtainable, or in beta testing. This respository orders the badges from `Very Easy` to `Easy` to `Medium` and finally `Hard`.
 
 GitHub Badges were added  after the launch of the first Mars Helicopter, [Ingenuity](https://en.wikipedia.org/wiki/Ingenuity_(helicopter)).
 
