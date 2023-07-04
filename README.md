@@ -45,7 +45,7 @@ Some Achievements not only have the base version, but also tiers. The following 
 
 # 🎨 Tier Colors & Labels
 
-Every tier has either a x2, x3, or x4 label with it that also includes a color.
+Every tier has either a x2, x3, or x4 label with it that also includes a color. Here is the information about each one below:
 
 | Tier | Label | Sample | Hex | Visual |
 | --- | --- | --- | --- | --- |
