@@ -1,10 +1,10 @@
 # 🛡️ Profile Badges
 
-This respository includes a collection of every single badge on GitHub, and how to obtain each one of them. Some of them are obtainable, not obtainable, or in beta testing. This respository orders the badges from `Very Easy` to `Easy` to `Medium` and finally `Hard`.
+This repository includes a collection of every single badge on GitHub, and how to obtain each one of them. Some of them are obtainable, not obtainable, or in beta testing. This repository orders the badges from `Very Easy` to `Easy` to `Medium` and finally `Hard`.
 
-GitHub Badges were added  after the launch of the first Mars Helicopter, [Ingenuity](https://en.wikipedia.org/wiki/Ingenuity_(helicopter)).
+GitHub Badges were added after the launch of the first Mars Helicopter, [Ingenuity](https://en.wikipedia.org/wiki/Ingenuity_(helicopter)).
 
-> Now today, there are a total of 11 badges on GitHub, and some with a bronze, silver, and gold tierlist too.
+> Now today, there are a total of 11 badges on GitHub, and some with a bronze, silver, and gold tier list too.
 
 # 🧪 Achievements Being Tested
 These achievements are still in testing and will be obtainable soon:
@@ -22,7 +22,7 @@ YOLO | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profi
 Quickdraw | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="175px"> | `✅ Yes` | Obtainable by closing a Pull Request or Issue in 5 mins of it being opened. (You can close your own issues) | Very Easy
 Pair Extraordinaire	 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="175px"> | `✅ Yes` | The user can obtain this badge by [Coauthoring](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) in a merged pull request. (Requires GitHub Desktop App) | Hard
 Galaxy Brain | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="175px"> | `✅ Yes` | A user can get this badge by getting 2 of their answers accepted on the [Community Discussions](https://github.com/orgs/community/discussions/) forum. | Medium
-Starstruck | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="175px"> | `✅ Yes` | This badge is given to someone when one of their respository's gets 16 stars. | Hard
+Starstruck | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="175px"> | `✅ Yes` | This badge is given to someone when one of their repository's gets 16 stars. | Hard
 Public Sponsor | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/public-sponsor-default.png" width="175px"> | `✅ Yes` | This badge can be earned by sponsoring a respository/organization/user. | Very Easy
 
 # ⛔ Un-Obtainable Achievements
@@ -45,7 +45,7 @@ Some Achievements not only have the base version, but also tiers. The following 
 
 # 🎨 Tier Colors & Labels
 
-Every tier has either a x2, x3, or x4 label with it that also includes a color. Here is the information about each one below:
+Every tier has either an x2, x3, or x4 label with it that also includes color. Here is the information about each one below:
 
 | Tier | Label | Sample | Hex | Visual |
 | --- | --- | --- | --- | --- |
@@ -55,7 +55,7 @@ Every tier has either a x2, x3, or x4 label with it that also includes a color. 
 
 # 👋 Achievement Skin Tone
 
-Some of the achievements' on GitHub appear with a different skin color depending on your Emoji Skin Tone Preference.
+Some of the achievements on GitHub appear with a different skin color depending on your Emoji Skin Tone Preference.
 
 You can change your preferred Skin Tone by visiting the [appearance settings](https://github.com/settings/appearance).
 
@@ -68,7 +68,7 @@ You can change your preferred Skin Tone by visiting the [appearance settings](ht
 
 # 🕒 Previous Names
 
-Only 2 achievements have had their name altered in all of GitHub History. These 2 achievements are the Public Sponsor and Mars 2020 Contributor as following:
+Only 2 achievements have had their name altered in all of GitHub's History. These 2 achievements are the Public Sponsor and Mars 2020 Contributor as follows:
 
 ```diff
 - GitHub Sponsor
