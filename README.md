@@ -23,7 +23,7 @@ Quickdraw | <img src="https://raw.githubusercontent.com/Schweinepriester/github-
 Pair Extraordinaire	 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="175px"> | `✅ Yes` | The user can obtain this badge by [Coauthoring](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) in a merged pull request. (Requires GitHub Desktop App) | Hard
 Galaxy Brain | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="175px"> | `✅ Yes` | A user can get this badge by getting 2 of their answers accepted on the [Community Discussions](https://github.com/orgs/community/discussions/) forum. | Medium
 Starstruck | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="175px"> | `✅ Yes` | This badge is given to someone when one of their repository's gets 16 stars. | Hard
-Public Sponsor | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/public-sponsor-default.png" width="175px"> | `✅ Yes` | This badge can be earned by sponsoring a respository/organization/user. | Very Easy
+Public Sponsor | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/public-sponsor-default.png" width="175px"> | `✅ Yes` | This badge can be earned by sponsoring a repository/organization/user. | Very Easy
 
 # ⛔ Un-Obtainable Achievements
 The following are badges that used to be obtainable, but now cannot be obtained:
