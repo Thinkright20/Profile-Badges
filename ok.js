@@ -1,1 +1,1 @@
-console.log("Sup ?")
+const pair = "extraordinaire";
