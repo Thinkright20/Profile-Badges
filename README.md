@@ -57,7 +57,7 @@ Every tier has either an x2, x3, or x4 label with it that also includes color. H
 
 Some of the achievements on GitHub appear with a different skin color depending on your Emoji Skin Tone Preference.
 
-You can change your preferred Skin Tone by visiting the [appearance settings](https://github.com/settings/appearance).
+You can change your preferred Skin Tone by going to the [appearance settings](https://github.com/settings/appearance).
 
 <br>
 
