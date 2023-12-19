@@ -1,0 +1,1 @@
+console.js("YOLO Badge");
