@@ -1,0 +1,41 @@
+public class MortgageCalculator {
+
+    public static void main(String[] args) {
+        double loanAmount = 500_000;
+        int loanTermInYears = 30;
+        String loanType = "Fixed";
+        double annualInterestRate = 0;
+
+        switch (loanType) {
+
+            case "Fixed":
+                if (loanTermInYears == 30) {
+                    annualInterestRate = 7.5;
+                } else {
+                    annualInterestRate = 6.9;
+                }
+                break;
+
+            case "FHA":
+                if (loanTermInYears == 30) {
+                    annualInterestRate = 7.24;
+                } else {
+                    annualInterestRate = 6.62;
+                }
+
+                break;
+
+            case "VA":
+                if (loanTermInYears == 30) {
+                    annualInterestRate = 6.75;
+                } else {
+                    annualInterestRate = 5.99;
+                }
+
+                break;
+
+
+            default:
+                System.out.println("Your loan type is not correct");
+
+        }
