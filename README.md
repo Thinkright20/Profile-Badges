@@ -47,11 +47,11 @@ Some Achievements not only have the base version, but also tiers. The following 
 
 Every tier has either an x2, x3, or x4 label with it that also includes color. Here is the information about each one below:
 
-| Tier | Label | Sample | Hex | Visual |
-| --- | --- | --- | --- | --- |
-🥉 Bronze | `x2` | ![x2](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/2cc68fe868f104a77b53a353a2931d6e648e06b2/images/custom/tier-label/tier-label-bronze.svg) | `#F9BFA7` | ![#F9BFA7](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23F9BFA7-yellow?style=flat-square&color=F9BFA7)
-🥈 Silver | `x3` | ![x3](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/2cc68fe868f104a77b53a353a2931d6e648e06b2/images/custom/tier-label/tier-label-silver.svg) | `#E1E4E4` | ![#E1E4E4](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23E1E4E4-yellow?style=flat-square&color=E1E4E4)
-🥇 Gold | `x4` | ![x4](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/2cc68fe868f104a77b53a353a2931d6e648e06b2/images/custom/tier-label/tier-label-gold.svg) | `#FAE57E` | ![#FAE57E](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23FAE57E-yellow?style=flat-square&color=FAE57E)
+| Tier | Label | Sample | Hex | Visual | rgb |
+| --- | --- | --- | --- | --- | --- |
+🥉 Bronze | `x2` | ![x2](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/2cc68fe868f104a77b53a353a2931d6e648e06b2/images/custom/tier-label/tier-label-bronze.svg) | `#F9BFA7` | ![#F9BFA7](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23F9BFA7-yellow?style=flat-square&color=F9BFA7) | ```rgb(249, 191, 167)``` |
+🥈 Silver | `x3` | ![x3](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/2cc68fe868f104a77b53a353a2931d6e648e06b2/images/custom/tier-label/tier-label-silver.svg) | `#E1E4E4` | ![#E1E4E4](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23E1E4E4-yellow?style=flat-square&color=E1E4E4) | ```rgb(225, 228, 228)``` |
+🥇 Gold | `x4` | ![x4](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/2cc68fe868f104a77b53a353a2931d6e648e06b2/images/custom/tier-label/tier-label-gold.svg) | `#FAE57E` | ![#FAE57E](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23FAE57E-yellow?style=flat-square&color=FAE57E) | ```rgb(250, 229, 126)``` |
 
 # 👋 Achievement Skin Tone
 
