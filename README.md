@@ -80,4 +80,4 @@ Only 2 achievements have had their name altered in all of GitHub's History. Thes
 
 # 📋 Credits
 - Massive credit goes to @Schweinepriester for the high quality images for each badge, labels, information for each badge, and the inspiration to make this repository
-- Credit to @drknzz for the skin tone images, information about it too & inspiration
+- Credit to @drknzz for the skin tone images, information about it too & inspiration.
