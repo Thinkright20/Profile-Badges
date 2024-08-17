@@ -1,5 +1,9 @@
-# 📝 Small Note (CHEAP SOCIAL MEDIA FOLLOWERS)
-If you are interested in starting up your social media journey, I provide a service that allows you to get cheap social media followers for instagram, youtube, tiktok, etc. Please join this Discord Server to learn more: **https://discord.gg/V2QxwJkbMn**
+# 📲 HOW TO GET SOCIAL MEDIA FOLLOWERS (TIKTOK, INSTAGRAM, DISCORD, YOUTUBE, SPOTIFY, TWITCH, TWITTER, TELGRAM):
+🔗 **https://www.youtube.com/watch?v=Lr7MDkpp2b4**
+
+### ➡️ Or if you want to skip the video, you can directly join the Discord server: 
+
+📥 **https://discord.gg/V2QxwJkbMn**
 
 # 🛡️ Profile Badges
 
