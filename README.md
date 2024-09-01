@@ -1,11 +1,4 @@
-# 📲 HOW TO GET SOCIAL MEDIA FOLLOWERS (TIKTOK, INSTAGRAM, DISCORD, YOUTUBE, SPOTIFY, TWITCH, TWITTER, TELGRAM):
-🔗 **https://www.youtube.com/watch?v=Lr7MDkpp2b4**
-
-### ➡️ Or if you want to skip the video, you can directly join the Discord server: 
-
-📥 **https://discord.gg/V2QxwJkbMn**
-
-# 🛡️ Profile Badges
+ 🛡️ Profile Badges
 
 This repository includes a collection of every single badge on GitHub, and how to obtain each one of them. Some of them are obtainable, not obtainable, or still in beta testing. This repository orders the badges from `Very Easy` to `Easy` to `Medium` and finally `Hard`.
 
