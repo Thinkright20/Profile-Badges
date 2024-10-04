@@ -9,6 +9,8 @@
 
 This repository includes a collection of every single badge on GitHub, and how to obtain each one of them. Some of them are obtainable, not obtainable, or still in beta testing. This repository orders the badges from `Very Easy` to `Easy` to `Medium` and finally `Hard`.
 
+Some of the profile batches are easy to earn but dont run behind the batches focus on  meaningfull achievements you have made on github or any other open source platform
+
 GitHub Badges were added after the launch of the first Mars Helicopter, [Ingenuity](https://en.wikipedia.org/wiki/Ingenuity_(helicopter)).
 
 > Now today, there are a total of 11 badges on GitHub, and some with a bronze, silver, and gold tier too.
