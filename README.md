@@ -11,7 +11,7 @@ This repository includes a collection of every single badge on GitHub, and how t
 
 GitHub Badges were added after the launch of the first Mars Helicopter, [Ingenuity](https://en.wikipedia.org/wiki/Ingenuity_(helicopter)).
 
-> Now today, there are a total of 11 badges on GitHub, and some with a bronze, silver, and gold tier too.
+> Nowadays, there are a total of 11 badges on GitHub, and some with a bronze, silver, and gold tier too.
 
 # 🧪 Achievements Being Tested
 These achievements are still in testing and will be obtainable soon:
