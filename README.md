@@ -1,4 +1,4 @@
-# 📲 HOW TO GET SOCIAL MEDIA FOLLOWERS (TIKTOK, INSTAGRAM, DISCORD, YOUTUBE, SPOTIFY, TWITCH, TWITTER, TELGRAM):
+# 📲 HOW TO GET SOCIAL MEDIA FOLLOWERS (TIKTOK, INSTAGRAM, DISCORD, YOUTUBE, SPOTIFY, TWITCH, TWITTER, TELEGRAM):
 🔗 **https://www.youtube.com/watch?v=Lr7MDkpp2b4**
 
 ### ➡️ Or if you want to skip the video, you can directly join the Discord server: 
@@ -7,7 +7,7 @@
 
 # 🛡️ Profile Badges
 
-This repository includes a collection of every single badge on GitHub, and how to obtain each one of them. Some of them are obtainable, not obtainable, or still in beta testing. This repository orders the badges from `Very Easy` to `Easy` to `Medium` and finally `Hard`.
+This repository includes a collection of every single badge on GitHub and how to obtain each one of them. Some of them are obtainable, not obtainable, or still in beta testing. This repository orders the badges from `Very Easy` to `Easy` to `Medium` and finally `Hard`.
 
 GitHub Badges were added after the launch of the first Mars Helicopter, [Ingenuity](https://en.wikipedia.org/wiki/Ingenuity_(helicopter)).
 
@@ -17,7 +17,7 @@ GitHub Badges were added after the launch of the first Mars Helicopter, [Ingenui
 These achievements are still in testing and will be obtainable soon:
 | Name | Badge Image | Earnable? | Earned By | Difficulty |
 | --- | --- | --- | --- | --- |
-Heart On Your Sleeve | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/heart-on-your-sleeve-default.png" width="120px"> | `🔜 In testing` | User cans obtain this badge by reacting to something on GitHub with a ❤️ emoji | Very Easy
+Heart On Your Sleeve | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/heart-on-your-sleeve-default.png" width="120px"> | `🔜 In testing` | User can obtain this badge by reacting to something on GitHub with a ❤️ emoji | Very Easy
 Open Sourcerer | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/open-sourcerer-default.png" width="120px"> | `🔜 In testing` | Can be obtained if a user had Pull Requests merged in more than 1 public repository | Medium
 
 # 🥇 Obtainable Achievements
@@ -75,7 +75,7 @@ You can change your preferred Skin Tone by going to the [appearance settings](ht
 
 # 🕒 Previous Names
 
-Only 2 achievements have had their name altered in all of GitHub's History. These 2 achievements are the Public Sponsor and Mars 2020 Contributor as follows:
+Only 2 achievements have had their name altered in all of GitHub's History. These 2 achievements are the Public Sponsor and Mars 2020 Contributor, as follows:
 
 ```diff
 - GitHub Sponsor
@@ -86,5 +86,5 @@ Only 2 achievements have had their name altered in all of GitHub's History. Thes
 ```
 
 # 📋 Credits
-- Massive credit goes to @Schweinepriester for the high quality images for each badge, labels, information for each badge, and the inspiration to make this repository
-- Credit to @drknzz for the skin tone images, information about it too & inspiration
+- Massive credit goes to @Schweinepriester for the high-quality images for each badge, labels, information for each badge, and the inspiration to make this repository
+- Credit to @drknzz for the skin tone images, information about them too & inspiration
